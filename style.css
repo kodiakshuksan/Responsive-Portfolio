@@ -5,3 +5,8 @@ body {
 .nav-item {
     text: white;
 }
+
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
