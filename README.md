@@ -6,40 +6,26 @@
 
 
 # Installation
-<h1>Link to Project:</h1>
 
-<p>link to project:</p>
+<h1>Link to Portfolio></h1>
+
+
+<h3>https://kodiakshuksan.github.io/Responsive-Portfolio/</h3>
 
 
 
 ## Usage 
 
-Use navigation bar to follow links to learn more about me personally and professionally. I included a link to my portfolio projects. Please use my contact link if you have any further questions or would like further information
+<p>Use navigation bar to follow links to learn more about me personally and professionally. I included a link to my portfolio projects. Please use my contact link if you have any further questions or would like further information.</p>
+
+<img src="assests/portfolio_ex.png alt="clip of Jennifer Detmering's Portfolio Homepage>
 
 
 
 ## Credits
 
 
-W3schools.com, Bootstrap.com
-
-
-
-## License
-
-choose license
-
-
-
-## Badges
-
-
-
-## Features
-
-
-
-## Contributing
+W3schools.com, Bootstrap
 
 
 
