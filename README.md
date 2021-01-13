@@ -7,7 +7,7 @@
 
 # Installation
 
-<h1>Link to Portfolio></h1>
+<h1>Link to Portfolio</h1>
 
 
 <h3>https://kodiakshuksan.github.io/Responsive-Portfolio/</h3>
@@ -18,7 +18,7 @@
 
 <p>Use navigation bar to follow links to learn more about me personally and professionally. I included a link to my portfolio projects. Please use my contact link if you have any further questions or would like further information.</p>
 
-<img src="assets/portfolio_ex.png" alt="clip of Jennifer Detmering's Portfolio Homepage">
+<img src="assets/portfolio_ex.png" alt="clip of Jennifer Detmering's Portfolio Homepage" />
 
 
 
