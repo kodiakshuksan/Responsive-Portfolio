@@ -1,9 +1,39 @@
-body {
+main {
   background-color: lightblue; 
 }
-
+ 
+.nav-link {
+  font-size: large;
+}
 .footer {
-  background-color:#aaa;
-  color:black;
-  text-align:center;
+  color:lightgrey;
+  margin-top: 212px;
+  font-size: large;
+}
+
+.footerPortfolio {
+  color:lightgrey;
+  margin-top: 499px;
+  font-size: large;
+}
+
+.footerResume {
+  color:lightgrey;
+  margin-top: 472px;
+  font-size: large;
+}
+
+.footerContact {
+  color:lightgrey;
+  margin-top: 6px;
+  font-size: large;
+}
+
+h3 {padding: 10px;
+
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
 }
