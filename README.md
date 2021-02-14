@@ -21,10 +21,20 @@ HTML, CSS, Bootstrap
 
 <p>Use navigation bar to follow links to learn more about me personally and professionally. I included a link to my portfolio projects. Please use my contact link if you have any further questions or would like further information.</p>
 
-<img src="assets/portfolio_ex.png" alt="clip of Jennifer Detmering's Portfolio Homepage" />
+<img src="assets/aboutMe.PNG" alt="clip of Jennifer Detmering's Portfolio Homepage" />
 
 
 
 ## Credits
 
 <h3 href="w3schools.com">W3 Schools Link</h3>
+
+## License
+
+<a href="LICENSE.txt">License Document<a>
+
+## HTML Validation
+
+<h3 href="w3schools.com">HTML Validation</h3>
+
+

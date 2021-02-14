@@ -3,35 +3,36 @@ main {
 }
  
 .nav-link {
-  font-size: large;
+  font-size: x-large;
 }
 .footer {
   color:lightgrey;
-  margin-top: 212px;
-  font-size: large;
+  margin-top: 163px;
 }
 
 .footerPortfolio {
   color:lightgrey;
-  margin-top: 499px;
-  font-size: large;
+  margin-top: 480px;
+  font-size: medium;
 }
 
 .footerResume {
   color:lightgrey;
-  margin-top: 472px;
-  font-size: large;
+  margin-top: 480px;
 }
 
 .footerContact {
   color:lightgrey;
   margin-top: 6px;
-  font-size: large;
 }
 
-h3 {padding: 10px;
-
+a {
+  font-size: 20px;
+  color: lightgrey;
+  justify-content: center;
+  vertical-align: center;
 }
+
 
 .responsive {
   width: 100%;
